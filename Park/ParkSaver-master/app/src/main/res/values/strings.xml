@@ -1,0 +1,109 @@
+<resources>
+    <string name="application_name">Park Saver</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="appointement" translatable="false">Appointment</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register_button" translatable="false">The Register</string>
+    <string name="register_to_app" translatable="false">Don\'t have a user yet? Sign up!</string>
+    <string name="login_failed" translatable="false">Username or password incorrect</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="error_text" translatable="false">All fields must be filled in</string>
+    <string name="register_sucsses" translatable="false">Registration was successful</string>
+
+    <string name="register_fail" translatable="false">Registration failed, please try again.</string>
+    <string name="nav_open" translatable="false">Open</string>
+    <string name="nav_close" translatable="false">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="my_appointement" translatable="false">My Parking</string>
+    <string name="waze" translatable="false">Navigate to the business</string>
+    <string name="change_appointment" translatable="false">Change Appointment</string>
+    <string name="delete_appointment" translatable="false">Cancel Appointment</string>
+    <string name="whatsapp" translatable="false">Contact on WhatsApp</string>
+    <string name="facebook" translatable="false">Facebook</string>
+    <string name="instagram" translatable="false">Instagram</string>
+    <string name="store" translatable="false">STORE</string>
+    <string name="appointement_header" translatable="false">Parking Reservation</string>
+
+    <string name="choose" translatable="false">"Choose Date: "</string>
+    <string name="choose_employee" translatable="false">בחר ספר:</string>
+    <string name="choose_hour" translatable="false">בחר שעה</string>
+    <string name="create_appointemnt" translatable="false">צור</string>
+    <string name="must_to_fill" translatable="false">חובה למלא את כל השדות</string>
+    <string name="appointment_created" translatable="false">חניה נוצר בהצלחה</string>
+    <string name="appointment_failed" translatable="false">חניה לא נוצרה</string>
+    <string name="name_of_employe" translatable="false">שם החניון:</string>
+    <string name="dummy" translatable="false">טקסט לצורכי טסט</string>
+    <string name="hour" translatable="false">שעה:</string>
+    <string name="choose_branch" translatable="false">בחר סניף:</string>
+    <string name="branch" translatable="false">סניף:</string>
+    <string name="warning" translatable="false">אזהרה</string>
+    <string name="are_you_sure" translatable="false">אתה בטוח?</string>
+    <string name="accept" translatable="false">אישור</string>
+    <string name="item_deleted" translatable="false">תור נמחק בהצלחה</string>
+    <string name="item_not_deleted" translatable="false">שגיאה במהלך מחיקה</string>
+    <string name="edit_appointemtn_sucsses" translatable="false">עריכה הושלמה בהצלחה</string>
+    <string name="edit_appointemtn_fail" translatable="false">עריכה לא הצליחה</string>
+
+    <string name="first_name" translatable="false">שם פרטי</string>
+    <string name="last_name" translatable="false">משפחה</string>
+    <string name="credit_card_number" translatable="false">מספר כרטיס</string>
+    <string name="expiration_date" translatable="false">MM/YY</string>
+    <string name="cvv" translatable="false">קוד ביטחון</string>
+
+    <string name="pay" translatable="false">הוסף כרטיס</string>
+
+    <string name="successful_add_card" translatable="false">כרטיס אשראי הוסף בהצלחה</string>
+    <string name="ok" translatable="false">אוקיי</string>
+
+    <string name="please_enter_first_name" translatable="false">מלא שם פרטי</string>
+    <string name="please_enter_last_name" translatable="false">מלא שם משפחה</string>
+
+    <string name="invalid_card_number" translatable="false">מספר כרטיס לא תקין</string>
+    <string name="invalid_expiration_date" translatable="false">תאריך לא תקין</string>
+    <string name="invalid_cvv" translatable="false">קוד ביטחון לא תקין</string>
+    <string name="welcome_back" translatable="false">ברוך הבא</string>
+    <string name="update" translatable="false">עדכון</string>
+    <string name="update_appointment" translatable="false">יצירת תור</string>
+    <string name="failed_add_card" translatable="false">כרטיס אשראי נכשל</string>
+    <string name="edit_credit_card" translatable="false">ערוך כרטיס אשראי</string>
+    <string name="sum" translatable="false">סה״כ:</string>
+    <string name="pay_now" translatable="false">שלם</string>
+    <string name="id_number" translatable="false">מספר תעודת זהות</string>
+    <string name="please_enter_id" translatable="false">תעודת זהות לא תקינה</string>
+    <string name="choose_items" translatable="false">בחר פריטים</string>
+    <string name="payement_verification" translatable="false">אישור תשלום</string>
+    <string name="no_payment" translatable="false">לא הוזן אמצעי תשלום</string>
+    <string name="payment_message" translatable="false">"האם אתה בטוח שברצונך לשלם בסהכ - "</string>
+    <string name="payment_sucsses" translatable="false">העסקה בוצעה בהצלחה</string>
+    <string name="navigation" translatable="false">נווט</string>
+    <string name="navigation_header" translatable="false">נווט לסניף</string>
+    <string name="choose_park" translatable="false">בחר חניה</string>
+    <string name="park_area" translatable="false">חניון</string>
+    <string name="name_of_park" translatable="false">שם החניון:</string>
+
+    <string name="choose_spot" translatable="false">בחר מקום</string>
+    <string name="sum_to_pay" translatable="false">סכום לתשלום</string>
+    <string name="spot" translatable="false">מקום:</string>
+    <string name="price" translatable="false">מחיר:</string>
+    <string name="date" translatable="false">תאריך:</string>
+    <string name="register_role" translatable="false">האם אתה בעל חניה?</string>
+    <string name="telephone" translatable="false">מספר טלפון:</string>
+    <string name="adress" translatable="false">כתובת:</string>
+    <string name="from_hour" translatable="false">משעה:</string>
+    <string name="to_hour" translatable="false">עד שעה:</string>
+    <string name="continue_register" translatable="false">המשך</string>
+    <string name="error_hours" translatable="false">טווח שעות לא תקין</string>
+    <string name="name_of_owner" translatable="false">שם בעל החניה:</string>
+    <string name="hours" translatable="false">שעות</string>
+    <string name="hours_not_avaliable" translatable="false">שעות לא פנויות</string>
+    <string name="hour_range" translatable="false">שעות:</string>
+    <string name="name_of_renter" translatable="false">שם השוכר:</string>
+    <string name="no_data" translatable="false">אין מידע להציג</string>
+    <string name="fill_image" translatable="false">נא לבחור תמונה</string>
+    <string name="choose_location" translatable="false">נא לבחור מיקום</string>
+    <string name="fullname" translatable="false">Full name</string>
+    <string name="over_lap_error" />
+    <string name="decline" />
+</resources>
